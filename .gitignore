@@ -4,6 +4,8 @@ Temp/
 UserSettings/
 WebGL Builds/
 .vsconfig
+connectwebgl.zip
+webgl_sharing
 *.sln
 *.csproj
 *.sln
