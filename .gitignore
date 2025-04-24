@@ -1,0 +1,12 @@
+Library/
+Logs/
+Temp/
+UserSettings/
+WebGL Builds/
+.vsconfig
+*.sln
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.DS_Store
